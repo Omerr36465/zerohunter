@@ -1,0 +1,11 @@
+numpy>=1.19.0
+pandas>=1.1.0
+scikit-learn>=0.23.0
+tensorflow>=2.3.0
+PyQt5>=5.15.0
+pypcap>=1.2.3
+psutil>=5.7.0
+yara-python>=4.0.0
+requests>=2.24.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
